@@ -22,7 +22,7 @@ RunwayML + Google Colab will meet live for 10 weeks (8 weeks of lectures, 2 week
 # Week 1
 ### Class Materials
 - [Week 1 Slides](https://docs.google.com/presentation/d/1p7LXroWJISxtFA3yX8rwu_PomC7kSeEj3Ggc1U7-E-0/edit?usp=sharing)
-- [Week 1 Recording]()
+- Week 1 Recording
 
 ### Homework
 
