@@ -25,6 +25,17 @@ RunwayML + Google Colab will meet live for 10 weeks (8 weeks of lectures, 2 week
 - Week 1 Recording
 
 ### Homework
+1. Explore the pre-trained models in Runway. 
+- [Playlist of demos on YouTube](https://www.youtube.com/playlist?list=PLWuCzxqIpJs8OOUUePUNVCHrCGDoKTtyn)
+- Find a model to explore. In the class Slack tell us the following:
+    - What model you used
+    - What the inputs and outputs were
+    - What questions you have about the model
+    - Show us what you made.
+
+   Do this for at least three models.
+
+2. Watch [this video on Colab.](https://www.youtube.com/watch?v=b7s-NKmOEpQ&feature=youtu.be&ab_channel=ArtificialImages)
 
 ### Notes from class
 
