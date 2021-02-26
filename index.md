@@ -36,6 +36,7 @@ Do this for at least three models.
 2. Watch [this video on Colab.](https://www.youtube.com/watch?v=b7s-NKmOEpQ&feature=youtu.be&ab_channel=ArtificialImages)
 
 ### Notes from class
+- [**5-week Runway class previously taught by Derrick**](https://www.youtube.com/playlist?list=PLWuCzxqIpJs-UUGxN8T0a4DKhbXqClk1t)
 
 # Week 2
 # Week 3
