@@ -42,7 +42,7 @@ Do this for at least three models.
 
 # Week 3
 
-
+# About this class
 [Artificial Images: RunwayML & Google Colab](https://www.bustbright.com/product/runwayml-google-colab-course-starting-february-24th-2021/317) is a course for image makers (graphic designers, artists, illustrators and photographers) to learn about the basics of generative machine learning using RunwayML and Google Colab.
 In this class you’ll use popular deep learning models to create images, videos, and interactive experiences. The focus will be on hands-on experimentation with style transfer, CycleGAN/Pix2Pix, and StyleGAN2-ADA in RunwayML and Google Colab. The course will cover the theory behind deep learning and GANs, using pre-trained models, dataset creation, and training custom models. We’ll look at ways to generate images and videos using Python, p5.js, as well as reacting to sound and motion inputs. While you don’t need to have any coding experience, its probably helpful to have some awareness of coding principles. All notebooks will be provided to you so any modifications will be minor.
 
