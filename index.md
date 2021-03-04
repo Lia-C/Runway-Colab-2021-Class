@@ -44,6 +44,7 @@ Do this for at least three models.
 
 ### Additional Notes
 - For reusable code snippets in Colab: [Colab Snippets Notebook](https://github.com/dvschultz/Make-ML-Art-with-Google-Colab/blob/master/Snippets.ipynb), [Install Snippets Video](https://www.youtube.com/watch?v=rcXrH8euKNA)
+- More on chaining in Runway in this [video](https://www.youtube.com/watch?v=sEZ4Y_tVxm0).
 
 # Week 3
 
