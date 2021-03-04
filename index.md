@@ -39,6 +39,11 @@ Do this for at least three models.
 ### Class Materials
 - [Week 2 Slides](https://docs.google.com/presentation/d/1x4uuTzMLz8ZioevpfIzNY6W0p-_Q-ejw1eRKhpvV53c/edit?usp=sharing)
 - Week 2 Recording
+- [Colab Basics Notebook](https://github.com/dvschultz/Make-ML-Art-with-Google-Colab/blob/master/Intro_to_Colab.ipynb)
+- [Colab StyleGAN2 Projection Notebook](https://colab.research.google.com/drive/19p2MW3nhkKG5aPD8sEVRhHh8zJyL7Ymj?usp=sharing)
+
+### Additional Notes
+- For reusable code snippets in Colab: [Colab Snippets Notebook](https://github.com/dvschultz/Make-ML-Art-with-Google-Colab/blob/master/Snippets.ipynb), [Install Snippets Video](https://www.youtube.com/watch?v=rcXrH8euKNA)
 
 # Week 3
 
