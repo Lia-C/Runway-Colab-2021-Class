@@ -43,13 +43,11 @@ Do this for at least three models.
 - [Colab StyleGAN2 Projection Notebook](https://colab.research.google.com/drive/19p2MW3nhkKG5aPD8sEVRhHh8zJyL7Ymj?usp=sharing)
 
 ### Homework
-1. Explore Colab notebooks! There are suggested starter notebooks on slide 13 of the class slides (linked above). Also, we have a [playlist of Colab demos on YouTube](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE). In the class Slack tell us the following:
+1. Explore Colab notebooks! There are suggested starter notebooks on slide 13 of the class slides (linked above). Also, we have a [playlist of Colab demos on YouTube](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE). In the class Slack tell us the following, for at least *2 notebooks*:
 - What notebook you used
 - What the inputs and outputs were
 - What questions you have
 - Show us what you made.
-
-Do this for at least 2 notebooks.
 
 2. Watch [this video on GAN inspiration.](https://youtu.be/HNwXrHiHW7Q). Think about what you want to make!
 
