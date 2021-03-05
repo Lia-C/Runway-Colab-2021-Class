@@ -39,6 +39,8 @@ Do this for at least three models.
 ### Class Materials
 - [Week 2 Slides](https://docs.google.com/presentation/d/1x4uuTzMLz8ZioevpfIzNY6W0p-_Q-ejw1eRKhpvV53c/edit?usp=sharing)
 - Week 2 Recording
+  - [Class recording with transcript](https://youtu.be/V4omIsvPzco) (missing Colab basics demo)
+  - [Class recording with Colab basics demo](https://youtu.be/noifK5WkDKw) (no transcript 😕 )
 - [Colab Basics Notebook](https://github.com/dvschultz/Make-ML-Art-with-Google-Colab/blob/master/Intro_to_Colab.ipynb)
 - [Colab StyleGAN2 Projection Notebook](https://colab.research.google.com/drive/19p2MW3nhkKG5aPD8sEVRhHh8zJyL7Ymj?usp=sharing)
 
