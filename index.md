@@ -57,7 +57,13 @@ Do this for at least three models.
 - For reusable code snippets in Colab: [Colab Snippets Notebook](https://github.com/dvschultz/Make-ML-Art-with-Google-Colab/blob/master/Snippets.ipynb), [Install Snippets Video](https://www.youtube.com/watch?v=rcXrH8euKNA)
 - More on chaining in Runway in this [video](https://www.youtube.com/watch?v=sEZ4Y_tVxm0).
 
-# Week 3
+# Week 3: Types of GAN
+### Class Materials
+- [Week 3 Slides](https://docs.google.com/presentation/d/1Ul0f7mGeqvOZgzbSBHx1IL2mBnORQ1VXOeZsYV_R98A/edit?usp=sharing)
+- Week 3 Recording
+
+### Homework
+### Additional Notes
 
 # About this class
 [Artificial Images: RunwayML & Google Colab](https://www.bustbright.com/product/runwayml-google-colab-course-starting-february-24th-2021/317) is a course for image makers (graphic designers, artists, illustrators and photographers) to learn about the basics of generative machine learning using RunwayML and Google Colab.
