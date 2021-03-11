@@ -60,10 +60,18 @@ Do this for at least three models.
 # Week 3: Types of GAN
 ### Class Materials
 - [Week 3 Slides](https://docs.google.com/presentation/d/1Ul0f7mGeqvOZgzbSBHx1IL2mBnORQ1VXOeZsYV_R98A/edit?usp=sharing)
-- Week 3 Recording
+- [Week 3 Recording](https://youtu.be/NXzX7fn3_Rg)
 
 ### Homework
+Watch these two videos:
+- [Installing Anaconda, dataset-tools, and instagram-scraper](https://www.youtube.com/watch?v=2zgki1oeRkg)
+- [AI Ethics](https://youtu.be/tYVeEssDWFM?t=3534) (Watch from 58:57 to 1:18:37)
+
 ### Additional Notes
+- [whichfaceisreal](https://www.whichfaceisreal.com/)
+- [Janelle Shane on sheep detectors](https://www.janelleshane.com/aiweirdness/do-neural-nets-dream-of-electric-sheep) (example of ML cheating to get results right more or less often)
+- [3Blue1Brown on how machine learning works](https://www.youtube.com/watch?v=aircAruvnKk&ab_channel=3Blue1Brown)
+- [2 Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 
 # About this class
 [Artificial Images: RunwayML & Google Colab](https://www.bustbright.com/product/runwayml-google-colab-course-starting-february-24th-2021/317) is a course for image makers (graphic designers, artists, illustrators and photographers) to learn about the basics of generative machine learning using RunwayML and Google Colab.
