@@ -73,6 +73,19 @@ Watch these two videos:
 - [3Blue1Brown on how machine learning works](https://www.youtube.com/watch?v=aircAruvnKk&ab_channel=3Blue1Brown)
 - [2 Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 
+
+# Week 4: Creating Datasets
+### Class Materials
+- [Week 4 Slides](https://docs.google.com/presentation/d/1MAdJMhVEGKEehstFEwG4FtGd9nTJ_EliV180G7yo23I/edit?usp=sharing)
+- Week 4 Recording
+
+### Homework
+Start making a dataset. Reminder: no class next week! This is to give y'all more working time to make your datasets.
+- Choose a topic or a model you’re interested in
+- Find sources for images (can be a dataset already, or something scrape-able, or multiple sources you want to combine)
+
+### Additional Notes
+
 # About this class
 [Artificial Images: RunwayML & Google Colab](https://www.bustbright.com/product/runwayml-google-colab-course-starting-february-24th-2021/317) is a course for image makers (graphic designers, artists, illustrators and photographers) to learn about the basics of generative machine learning using RunwayML and Google Colab.
 In this class you’ll use popular deep learning models to create images, videos, and interactive experiences. The focus will be on hands-on experimentation with style transfer, CycleGAN/Pix2Pix, and StyleGAN2-ADA in RunwayML and Google Colab. The course will cover the theory behind deep learning and GANs, using pre-trained models, dataset creation, and training custom models. We’ll look at ways to generate images and videos using Python, p5.js, as well as reacting to sound and motion inputs. While you don’t need to have any coding experience, its probably helpful to have some awareness of coding principles. All notebooks will be provided to you so any modifications will be minor.
