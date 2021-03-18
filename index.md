@@ -77,7 +77,7 @@ Watch these two videos:
 # Week 4: Creating Datasets
 ### Class Materials
 - [Week 4 Slides](https://docs.google.com/presentation/d/1MAdJMhVEGKEehstFEwG4FtGd9nTJ_EliV180G7yo23I/edit?usp=sharing)
-- Week 4 Recording
+- [Week 4 Recording](https://youtu.be/pFKoGDc282s)
 
 ### Homework
 Start making a dataset. Reminder: no class next week! This is to give y'all more working time to make your datasets.
