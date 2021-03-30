@@ -84,7 +84,13 @@ Start making a dataset. Reminder: no class next week! This is to give y'all more
 - Choose a topic or a model you’re interested in
 - Find sources for images (can be a dataset already, or something scrape-able, or multiple sources you want to combine)
 
-### Additional Notes
+# Week 5: No Class. Make your dataset!
+
+# Week 6: Training NFP & StyleTransfer Models
+### Class Materials
+- [Week 6 Slides](https://docs.google.com/presentation/d/1CvUk5ue2gYuCJ2tuMnscg5RSBTSSrcf8e60WrAPp9jI/edit?usp=sharing)
+- [Week 6 Recording]
+
 
 # About this class
 [Artificial Images: RunwayML & Google Colab](https://www.bustbright.com/product/runwayml-google-colab-course-starting-february-24th-2021/317) is a course for image makers (graphic designers, artists, illustrators and photographers) to learn about the basics of generative machine learning using RunwayML and Google Colab.
