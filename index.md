@@ -89,7 +89,7 @@ Start making a dataset. Reminder: no class next week! This is to give y'all more
 # Week 6: Training NFP & StyleTransfer Models
 ### Class Materials
 - [Week 6 Slides](https://docs.google.com/presentation/d/1CvUk5ue2gYuCJ2tuMnscg5RSBTSSrcf8e60WrAPp9jI/edit?usp=sharing)
-- [Week 6 Recording]
+- [Week 6 Recording](https://youtu.be/V9Mp5FGInK8)
 
 
 # About this class
