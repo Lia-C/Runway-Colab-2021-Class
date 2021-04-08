@@ -95,7 +95,7 @@ Start making a dataset. Reminder: no class next week! This is to give y'all more
 # Week 7: Training StyleGAN & MUNIT
 ### Class Materials
 - [Week 7 Slides](https://docs.google.com/presentation/d/1h9lvcq8r5cBxCLXDVS9oIa3cXvgjmiaRHSHdOuuQfa0/edit#slide=id.gceac5d6101_0_663)
-- [Week 7 Recording]
+- [Week 7 Recording](https://youtu.be/ou2d4pQnnlA)
 
 # Week 8: No Class. Train, train away!
 
