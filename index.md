@@ -101,7 +101,7 @@ Start making a dataset. Reminder: no class next week! This is to give y'all more
 
 # Week 9: Inference
 - [Week 9 Slides](https://docs.google.com/presentation/d/16rhx1fhZ3IwMyXIBLdHeJCYlm8ShYCEgX-LaNODE0Dg/edit?usp=sharing)
-- Week 9 Recording
+- [Week 9 Recording](https://youtu.be/Y-LcKyUgseo)
 - [Pretrained StyleGAN2 Models](https://github.com/justinpinkney/awesome-pretrained-stylegan2) to play with. You'll need to run the `Convert Legacy Model` cell in the Colab notebook to convert these to the Pytorch format first!
 
 
