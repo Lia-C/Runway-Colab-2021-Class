@@ -104,6 +104,9 @@ Start making a dataset. Reminder: no class next week! This is to give y'all more
 - [Week 9 Recording](https://youtu.be/Y-LcKyUgseo)
 - [Pretrained StyleGAN2 Models](https://github.com/justinpinkney/awesome-pretrained-stylegan2) to play with. You'll need to run the `Convert Legacy Model` cell in the Colab notebook to convert these to the Pytorch format first!
 
+# Week 10: Advanced Inference, Additional Resources
+- [Week 10 Slides](https://docs.google.com/presentation/d/17Fp3E7_RInPleGWbJFM10Jk_RFELBhcGk0qhMmVbWQI/edit?usp=sharing)
+- [Week 10 Recording]
 
 # About this class
 [Artificial Images: RunwayML & Google Colab](https://www.bustbright.com/product/runwayml-google-colab-course-starting-february-24th-2021/317) is a course for image makers (graphic designers, artists, illustrators and photographers) to learn about the basics of generative machine learning using RunwayML and Google Colab.
